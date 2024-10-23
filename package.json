@@ -59,9 +59,6 @@
     "vite": "^5.4.1",
     "vite-plugin-dts": "^4.2.1"
   },
-  "dependencies": {
-    "path-to-regexp": "^8.0.0"
-  },
   "peerDependencies": {
     "svelte": "^4.2.18"
   }
